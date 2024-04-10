@@ -1,7 +1,7 @@
 # Notes-sharing-web-application-using-django-framework-Santhoshini_S-4086-VCTW-
 Notes Sharing App using django(python framework)
 
-PREREQUISITES
+**PREREQUISITES**
 Python Version >> 3.11.4
 Virtualenv setup
 Features
@@ -13,13 +13,15 @@ Admin can handle all the feattures like adding/updating/deleting the notes/users
 sqlite3 database
 Give It 🌟 if u find it useful.
 
-How to Run this project?
+**How to Run this project?**
 
 Virtualenv Setup
 python -m install virtualenv or pip install virtualenv  
 virtualenv (environment_name)  
 environment_name\Scripts\activate  
-Run Project
+
+**Run Project**
+
 First Locate to project folder in cmd with virtual environment running  
 pip install -r requirements.txt  
 python manage.py makemigrations  
